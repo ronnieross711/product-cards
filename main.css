@@ -54,3 +54,8 @@ p {
     font-weight: bold;
     margin: 10px;
 }
+
+.available {
+    background-color: darkgrey;
+    color: yellow;
+}
