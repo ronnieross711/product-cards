@@ -1,0 +1,40 @@
+body{
+    background-color: cornflowerblue;
+}
+
+#container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap; 
+} 
+
+.Section1 {
+    margin: 20px;
+    box-shadow: hotpink;
+}
+
+.section2 {
+    margin: 20px;
+    box-shadow: hotpink;
+}
+
+.section3 {
+    text-align: center;
+    color:black;
+    box-shadow: hotpink;
+
+}
+
+.card {
+    background-color: gray;
+    box-shadow: 2px 30px purple;
+    flex: 0px 0px 25%
+}
+
+.card h2 {
+    background-color: green;
+    border: 5px lightblue;
+
+}
+
+
