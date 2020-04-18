@@ -32,14 +32,14 @@ body{
     border: 1px;
     border-style: solid;
     margin: 10px;
-
+    
 }
 
 .card h2 {
     background-color: green;
     border: 5px solid lightblue;
     text-align: center;
-
+    color: crimson;
 }
 
 img {
@@ -47,4 +47,10 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+    text-align: justify;
+}
+
+p {
+    font-weight: bold;
+    margin: 10px;
 }
