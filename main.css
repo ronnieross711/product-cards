@@ -28,13 +28,23 @@ body{
 .card {
     background-color: gray;
     box-shadow: 2px 30px purple;
-    flex: 0px 0px 25%
+    flex: 0px 0px 25%;
+    border: 1px;
+    border-style: solid;
+    margin: 10px;
+
 }
 
 .card h2 {
     background-color: green;
     border: 5px solid lightblue;
+    text-align: center;
 
 }
 
-
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
